@@ -6,7 +6,7 @@
            review="android-review.googlesource.com" />
 
   <remote  name="cuboxi"
-           fetch="https://bitbucket.org/cuboxi" />
+           fetch="https://github.com/cuboxi" />
 
   <remote  name="solidrun"
            fetch="https://github.com/SolidRun" />
